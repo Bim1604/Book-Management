@@ -1,0 +1,20 @@
+Apr 26, 2021 11:00:22 PM dang.bookview.BookGUI checkValid
+SEVERE: Invalid Book Name
+Apr 26, 2021 11:00:24 PM dang.bookview.BookGUI checkValid
+SEVERE: Invalid Author
+Apr 26, 2021 11:00:27 PM dang.bookview.BookGUI checkValid
+SEVERE: Invalid Publisher
+Apr 26, 2021 11:00:29 PM dang.bookview.BookGUI checkValid
+SEVERE: Year must be less than current year
+Apr 26, 2021 11:00:33 PM dang.bookview.BookGUI btnSaveActionPerformed
+SEVERE: DuplicateID
+Apr 26, 2021 11:00:37 PM dang.bookview.BookGUI checkValid
+SEVERE: Invalid Book ID
+Apr 26, 2021 11:00:40 PM dang.bookview.BookGUI checkValid
+SEVERE: Invalid Book ID
+Apr 26, 2021 11:01:34 PM dang.bookview.BookGUI btnSearchByNameActionPerformed
+SEVERE: Not Found
+Apr 26, 2021 11:01:50 PM dang.bookview.BookGUI btnSearchByNameActionPerformed
+SEVERE: Not Found
+Apr 26, 2021 11:01:52 PM dang.bookview.BookGUI checkValid
+SEVERE: Invalid Book ID
